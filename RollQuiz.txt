@@ -26,7 +26,7 @@ roller
 shepherd
 shrop-shire
 simon
-sulzer
+[x] sulzer
 tar-rinse
 virga
 weinray-burr
